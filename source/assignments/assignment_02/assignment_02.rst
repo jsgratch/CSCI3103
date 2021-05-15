@@ -23,37 +23,37 @@ Assignment 2 - Primitive Modeling
 .. figure:: 2.png
    :width: 100%
 
-   Model by a CIS 160 student, 2021
+   Model by a student, 2021
 
 .. figure:: 3.png
    :width: 100%
 
-   Model by a CIS 160 student, 2021
+   Model by a student, 2021
 
 .. figure:: 4.png
    :width: 100%
 
-   Model by a CIS 160 student, 2021
+   Model by a student, 2021
 
 .. figure:: 5.png
    :width: 100%
 
-   Model by a CIS 160 student, 2021
+   Model by a student, 2021
 
 .. figure:: 6.png
    :width: 100%
 
-   Model by Kole Hicok, 2021
+   Model by a student, 2021
 
 .. figure:: 7.png
    :width: 100%
 
-   Model by Jeffery Roberts, 2021
+   Model by a student, 2021
 
 .. figure:: 8.png
    :width: 100%
 
-   Model by a CIS 160 student, 2021
+   Model by a student, 2021
 
 .. figure:: 9.png
    :width: 100%
@@ -63,19 +63,19 @@ Assignment 2 - Primitive Modeling
 .. figure:: 10.png
    :width: 100%
 
-   Model by a CIS 160 student, 2021
+   Model by a student, 2021
 
 .. figure:: 11.png
    :width: 100%
 
-   Model by a CIS 160 student, 2021
+   Model by a student, 2021
 
 .. figure:: 12.png
    :width: 100%
 
-   Model by a CIS 160 student, 2021
+   Model by a student, 2021
 
 .. figure:: 13.png
    :width: 100%
 
-   Model by a CIS 160 student, 2021
+   Model by a student, 2021
